@@ -1,4 +1,4 @@
-Soy un chico de 19 años, estudio sexto de liceo en nocturno, con afín hacia la programación backend y el desarrollo web.
+Soy un chico de 19 años con afín hacia la programación backend y el desarrollo web.
 este es mi gmail por si desean contactarme: netaru3@gmail.com
 y este es mi instagram: https://www.instagram.com/amiliviaaaron
 
