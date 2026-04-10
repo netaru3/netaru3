@@ -1,7 +1,7 @@
-Soy un chico de 20 años con afín hacia la programación backend en el desarrollo web.
+Soy un chico de 20 años con afín hacia la programación backend en el desarrollo web y la ciberseguridad.
 este es mi gmail por si desean contactarme: netaru3@gmail.com
 y este es mi instagram: https://www.instagram.com/amiliviaaaron
 
-cuento con conocimientos básicos de HTML, CSS, conocimientos intermedios de node.js y de su framework express
+cuento con conocimientos básicos de HTML, CSS,ciberseguridad, conocimientos intermedios de node.js y de su framework express
 
 si a alguien le interesa lo que hago, que no dude en contactarme!
